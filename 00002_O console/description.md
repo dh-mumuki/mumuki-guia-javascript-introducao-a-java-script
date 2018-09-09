@@ -1,0 +1,25 @@
+Nestas novas lições, há um grande personagem que vai desaparecer: o tabuleiro. Claro que você vai sentir falta dele, certo?
+
+:cry: Boooom, não chore, talvez tenhamos sido um pouco duros: em JavaScript não tem tabuleiro **porque não precisa!** :sweat_smile: 
+
+O tabuleiro nos serviu para ver o que nosso programa fez e que resultados gerou.
+
+Agora vamos ter ** o console **: uma ferramenta poderosa que nos permite fazer testes mais detalhados e flexíveis. Além disso, nos permite exibir informações na tela.
+
+Em Mumuki, você pode reconhecer facilmente o console, porque todos começam com o chirimbolito `ム`.
+
+------------------------
+Muitas vezes daremos exemplos usando o console. Por exemplo, se escrevermos:
+
+
+4 + 4 
+
+Ao pressionar enter mostrará um 8.
+
+
+```javascript
+ム 4 + 4
+8
+```
+
+> Nós convidamos você a jogar com o console. Você pode usá-lo como uma calculadora, inserindo qualquer operador matemático que você conhece, como adição, subtração, multiplicação e divisão. Se você colocar algum comando que o console não entende, ele mostrará um longo texto em vermelho, informando um erro.
