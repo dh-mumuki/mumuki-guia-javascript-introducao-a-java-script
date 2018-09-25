@@ -4,7 +4,7 @@ Nestas novas lições, há um grande personagem que vai desaparecer: o tabuleiro
 
 O tabuleiro nos serviu para ver o que nosso programa fez e que resultados gerou.
 
-Agora vamos ter ** o console **: uma ferramenta poderosa que nos permite fazer testes mais detalhados e flexíveis. Além disso, nos permite exibir informações na tela.
+Agora vamos ter **o console**: uma ferramenta poderosa que nos permite fazer testes mais detalhados e flexíveis. Além disso, nos permite exibir informações na tela.
 
 Em Mumuki, você pode reconhecer facilmente o console, porque todos começam com o chirimbolito `ム`.
 
