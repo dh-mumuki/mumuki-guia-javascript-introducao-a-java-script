@@ -1,7 +1,7 @@
-Vamos trabalhar com um comando em JavaScript que permite mostrar o que perguntamos no console :stuck_out_tongue:. Na programação, chamamos isso de  ¡¡imprimir na tela!!. Será super útil quando começarmos a escrever códigos em JavaScript.
+Vamos trabalhar com um comando em JavaScript que permite mostrar o que perguntamos no console :stuck_out_tongue:. Na programação, chamamos isso de imprimir na tela!!. Será super útil quando começarmos a escrever códigos em JavaScript.
  
 
-O comando é **console.log ()**. Incluiremos as informações que queremos "imprimir" na tela nos parâmetros.
+O comando é **console.log()**. Incluiremos as informações que queremos "imprimir" na tela.
 
 
 Vejamos um exemplo:
