@@ -2,7 +2,7 @@ Nestas novas lições, há um grande personagem que vai desaparecer: o tabuleiro
 
 :cry: Boooom, não chore, talvez tenhamos sido um pouco duros: em JavaScript não tem tabuleiro **porque não precisa!** :sweat_smile: 
 
-O tabuleiro nos serviu para ver o que nosso programa fez e que resultados gerou.
+O tabuleiro nos serviu para ver o que nosso programa fez e quais resultados gerou.
 
 Agora vamos ter **o console**: uma ferramenta poderosa que nos permite fazer testes mais detalhados e flexíveis. Além disso, nos permite exibir informações na tela.
 
