@@ -11,7 +11,7 @@ console.log("Olá")
 ```
 
 > Prove `console.log("Olá")` no console.. 
-Ao pressionar a tecla  **enter**, o console nos "imprimirá" o resultado na tela. 
+Ao pressionar a tecla  **Enter**, o console nos "imprimirá" o resultado na tela. 
 Se o que você deseja "imprimir" é um texto, você deve escrevê-lo entre aspas.
 
 Também podemos "imprimir"na tela o resultado de um comando, Por exemplo uma conta matemática. 
