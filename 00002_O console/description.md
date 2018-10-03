@@ -23,4 +23,4 @@ Ao pressionar enter mostrará um 8.
 ```
 
 > Nós convidamos você a utilizar o console. Você pode usá-lo como uma calculadora, inserindo qualquer operador matemático que você conhece, como adição, subtração, multiplicação e divisão. Se você colocar algum comando que o console não entende, ele mostrará um longo texto em vermelho, informando um erro.
-Para executar um comando, aperte a tecle 'Enter'.
+Para executar um comando, aperte a tecla 'Enter'.
