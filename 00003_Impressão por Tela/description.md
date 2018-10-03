@@ -16,7 +16,7 @@ Se o que você deseja "imprimir" é um texto, você deve escrevê-lo entre aspas
 
 Também podemos "imprimir"na tela o resultado de um comando, Por exemplo uma conta matemática. 
 
-Vejamos un exemplo:
+Vejamos um exemplo:
 
 ```
 console.log(5*5 + 4)
