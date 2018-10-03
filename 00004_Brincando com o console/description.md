@@ -4,4 +4,4 @@ Em JavaScript, se quisermos um programa que imprima o clássico "Hello, world!",
 console.log("Hello, world!");
 ```
 
->Jogue um pouco mais com o console para se certificar de que você entendeu o seu funcionamento.
+>Utilize o console para se certificar de que você entendeu o seu funcionamento.
