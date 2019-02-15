@@ -10,7 +10,7 @@ Vejamos um exemplo:
 console.log("Olá")
 ```
 
-> Prove `console.log("Olá")` no console.
+> Vamos testar `console.log("Olá")` no console.
 Ao pressionar a tecla  **Enter**, o console nos "imprimirá" o resultado na tela. 
 Se o que você deseja "imprimir" é um texto, você deve escrevê-lo entre aspas.
 
