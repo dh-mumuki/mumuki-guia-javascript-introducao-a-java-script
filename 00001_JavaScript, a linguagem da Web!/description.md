@@ -1,4 +1,4 @@
-Existem muitas linguagens de programação diferentes. Existem diferentes níveis de complexidade e com objetivos diferentes, alguns focam em interfaces gráficas e outros exclusivamente em cálculos avançados. Com tantas opções, como escolhemos? :scream:
+Existem muitas linguagens de programação diferentes. Cada uma com níveis de complexidade e objetivos diferentes, algumas linguagens focam em interfaces gráficas e outras exclusivamente em cálculos avançados. Com tantas opções, como escolhemos? :scream:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="200" height="200">
 
